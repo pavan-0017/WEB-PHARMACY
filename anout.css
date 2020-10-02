@@ -1,0 +1,42 @@
+body {
+    background-image: url(backgrounf.png);
+    background-size: 100%;
+  }
+  #pq {
+    border: 5px solid black;
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 6%;
+    width: 30%;
+    
+}
+form {
+  margin-left: 25%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:visited{
+  text-decoration: none;
+  color: black;
+}
+#pr {
+  align-items: center;
+}
+#p2 {
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+}
+#pq {
+  margin-left: 40%;
+
+}
+#aq {
+
+}
+input {
+  margin-left: 50% ;
+  margin-bottom: 10%;
+}

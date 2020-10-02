@@ -1,0 +1,46 @@
+body{
+    background-image: url(backgrounf.png);
+    background-size: 100%;
+}.bg {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+   
+}
+div{
+    align-items: center;
+    margin-top: 2%;
+    margin-right: 35%;
+    margin-left: 35%;
+    background-color:rgb(160, 213, 238);
+    border: 3px solid rgb(0, 0, 0);
+}
+.form{
+    border: 0;
+    padding: 10px;
+    
+    margin-top: 10px;
+    
+
+}
+#p1{
+    margin-left: 5px;
+}
+.form input[type="submit"]{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+a:visited{
+    text-decoration: none;
+}
+
